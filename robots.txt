@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /App_Data/
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /data1/
+Disallow: /engine1/
+Disallow: /fonts/
+Disallow: /Images/
+Disallow: /packages/
+Disallow: /Scripts/
