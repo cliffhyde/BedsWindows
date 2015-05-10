@@ -52,7 +52,7 @@ h4{
 }
 
 a {
-  color: #22B14C;
+  color: #00DF00;
   -webkit-transition: color 300ms, background-color 300ms;
   -moz-transition: color 300ms, background-color 300ms;
   -o-transition:  color 300ms, background-color 300ms;
@@ -297,7 +297,7 @@ input.search-form:hover {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover{
-	background-color: #22B14C;
+	background-color: #00DF00;
   color: #fff;
 }
 
@@ -308,7 +308,7 @@ input.search-form:hover {
 .navbar-inverse .navbar-brand {
   font-size: 36px;
   line-height: 50px;
-  color: #22B14C;
+  color: #00DF00;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
@@ -704,7 +704,7 @@ input.search-form:hover {
 
 .progress .color2,
 .progress .color2 .bar-width{
-  background: #6aa42f;
+  background: #00DF00;
 }
 
 .progress .color3,
@@ -767,7 +767,7 @@ input.search-form:hover {
 }
 
 .progress .color2 span:before{
-  border-color: #6aa42f transparent transparent transparent;
+  border-color: #00DF00 transparent transparent transparent;
 }
 
 .progress .color3 span:before{
@@ -1310,8 +1310,8 @@ ul.social_icons li  a i{
  }
 
 .team-bar .second-arrow hr {
-  border-bottom: 1px solid #6aa42f;
-  border-top: 1px solid #6aa42f;
+  border-bottom: 1px solid #00DF00;
+  border-top: 1px solid #00DF00;
 }
 
 .team-bar .third-arrow hr {
@@ -1351,7 +1351,7 @@ ul.social_icons li  a i{
  }
 
 .team-bar .second-arrow .fa-angle-down {
-  background:#6AA42F;
+  background:#00DF00;
   margin-left: -33px;
 }
 
@@ -1742,7 +1742,7 @@ ul.social_icons li  a i{
 
 .pricing-area .heading-two, 
 .pricing-area .price-two .plan-action .btn-primary {
-  background:#27AE60;
+  background:#00DF00;
 }
 
 .pricing-area .heading-three,
@@ -1780,7 +1780,7 @@ ul.social_icons li  a i{
 }
 
 .pricing-area .heading-two h3:before {
-  border-color: #1f8c4d transparent transparent;
+  border-color: #00DF00 transparent transparent;
 }
 
 .pricing-area .heading-three h3:before {
@@ -1867,7 +1867,7 @@ ul.social_icons li  a i{
 
 .pricing-area .price-two .plan-action .btn-primary:before, 
 .pricing-area .price-two .plan-action .btn-primary:after {
-  border-color: #1f8c4d transparent transparent;
+  border-color: #00DF00 transparent transparent;
 }
 
 .pricing-area .price-three .plan-action .btn-primary:before, 
@@ -2472,7 +2472,7 @@ shortcodes page css
 ************************/
 #bottom {
   background: #f5f5f5;
-  border-bottom: 5px solid #22B14C;
+  border-bottom: 5px solid #00DF00;
   font-size: 14px;
 }
 
@@ -2519,7 +2519,7 @@ shortcodes page css
 }
 
 #footer a:hover {
-  color: #96D508;
+  color: #00DF00;
 }
 
 #footer ul {
