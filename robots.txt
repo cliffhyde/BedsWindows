@@ -1,4 +1,3 @@
-Sitemap: http://bedfordshirewindows.co.uk/sitemap.xml
 User-agent: *
 Disallow: /App_Data/
 Disallow: /cgi-bin/
